@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'urduemadnastaleeqregular1';
-	src: url('./urduemadnastaleeqregular1.eot');
-	src: local('urduemadnastaleeqregular1'), url('./urduemadnastaleeqregular1.woff') format('woff'), url('./urduemadnastaleeqregular1.ttf') format('truetype');
+	src: url('https://cdn.rawgit.com/shakeebahmad95/EmaadNastaleeq/5058f465/urduemadnastaleeqregular1.eot');
+	src: local('urduemadnastaleeqregular1'), url('https://cdn.rawgit.com/shakeebahmad95/EmaadNastaleeq/5058f465/urduemadnastaleeqregular1.woff') format('woff'), url('https://cdn.rawgit.com/shakeebahmad95/EmaadNastaleeq/5058f465/urduemadnastaleeqregular1.ttf') format('truetype');
 }
 /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7780">Text with this font applied</p> */
 .fontsforweb_fontid_7780 {
